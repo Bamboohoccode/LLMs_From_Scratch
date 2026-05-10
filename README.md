@@ -1,3 +1,5 @@
 #My first book in LLM field.
 **I'm just a student :>**
-![W](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cdee8aea-d350-4eb0-b146-806c79facebf" width="100%">
+</p>
